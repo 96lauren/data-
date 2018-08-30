@@ -1,0 +1,17 @@
+body{
+	background-color: #eee;
+}
+header{
+	text-align: center;
+	background-color: blue;
+	height: 100px;
+}
+
+table tr td:nth-child(even){
+	background-color: lightpink;
+}
+.container{
+	margin: 0 auto;
+	width: 700px;
+	padding: 20px; 
+}
