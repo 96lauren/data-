@@ -1,10 +1,15 @@
 body{
-	background-color: #eee;
+	background-image:radial-gradient(#ee6e,pink);
+	font-family: raleway;
+	color:rgba(0,0,0,0.7);
 }
 header{
 	text-align: center;
-	background-color: blue;
+	background-color: rgba(0,0,0,0.6);
 	height: 100px;
+	line-height: 200%;
+	color: #fff;
+	font-size: 50px;
 }
 
 table tr td:nth-child(even){
@@ -14,4 +19,4 @@ table tr td:nth-child(even){
 	margin: 0 auto;
 	width: 700px;
 	padding: 20px; 
-}
+} 
